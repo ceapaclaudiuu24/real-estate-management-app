@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>calendar.png</file>
+    <file>email.png</file>
+    <file>map.png</file>
+    <file>phone.png</file>
+    <file>real-estate-agent_register.png</file>
+    <file>user_register.png</file>
+    <file>user_register_hovered.png</file>
+    <file>user.png</file>
+    <file>user_hovered.png</file>
+    <file>filter.png</file>
+    <file>down-chevron.png</file>
+    <file>filter_hovered.png</file>
+    <file>favorites_hovered.png</file>
+    <file>property_hovered.png</file>
+    <file>real-estate-agent_hovered.png</file>
+    <file>viewing_schedule_hovered.png</file>
+    <file>dashboard.png</file>
+    <file>dashboard_hovered.png</file>
+    <file>favorites.png</file>
+    <file>property.png</file>
+    <file>real-estate-agent.png</file>
+    <file>viewing_schedule.png</file>
+  </qresource>
+</RCC>
